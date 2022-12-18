@@ -16,3 +16,6 @@
 [submodule "lib/radio-receiver"]
 	path = lib/radio-receiver
 	url = https://github.com/besi/kicad-radio-receiver
+[submodule "lib/dcdc"]
+	path = lib/dcdc
+	url = https://github.com/besi/kicad-dcdc
