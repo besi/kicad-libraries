@@ -782,6 +782,14 @@
   )
 
 
+  (global_label "GND" (shape input) (at 42.164 124.714 270) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 5a093a56-44e3-4210-9406-c92e4bddeab0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 42.0846 130.9976 90)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+
   (symbol (lib_id "esp-01m:esp-01m") (at 52.324 114.554 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 236bdc31-4b00-4994-b849-5a59c1729744)
@@ -816,7 +824,7 @@
   (symbol (lib_id "connectors:Conn_01x09") (at 68.834 114.554 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2c0dca24-f9f9-46a7-bd3a-bc66b6c0b3d7)
-    (property "Reference" "J?" (id 0) (at 71.12 113.2839 0)
+    (property "Reference" "J2" (id 0) (at 71.12 113.2839 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x09" (id 1) (at 71.12 115.8239 0)
@@ -862,7 +870,7 @@
   (symbol (lib_id "connectors:Conn_01x09") (at 37.084 114.554 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 67dc7c85-5ec5-4a6b-939d-f82942144e62)
-    (property "Reference" "J?" (id 0) (at 37.084 97.79 0))
+    (property "Reference" "J1" (id 0) (at 37.084 97.79 0))
     (property "Value" "Conn_01x09" (id 1) (at 37.084 100.33 0))
     (property "Footprint" "connector 2.54:PinHeader_1x09_P2.54mm_Vertical" (id 2) (at 37.084 114.554 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1014,11 +1022,11 @@
   )
 
   (symbol_instances
-    (path "/2c0dca24-f9f9-46a7-bd3a-bc66b6c0b3d7"
-      (reference "J?") (unit 1) (value "Conn_01x09") (footprint "connector 2.54:PinHeader_1x09_P2.54mm_Vertical")
-    )
     (path "/67dc7c85-5ec5-4a6b-939d-f82942144e62"
-      (reference "J?") (unit 1) (value "Conn_01x09") (footprint "connector 2.54:PinHeader_1x09_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_01x09") (footprint "connector 2.54:PinHeader_1x09_P2.54mm_Vertical")
+    )
+    (path "/2c0dca24-f9f9-46a7-bd3a-bc66b6c0b3d7"
+      (reference "J2") (unit 1) (value "Conn_01x09") (footprint "connector 2.54:PinHeader_1x09_P2.54mm_Vertical")
     )
     (path "/e0c68c97-73e9-4f69-ab89-b954fe74c49d"
       (reference "U1") (unit 1) (value "radio-receiver") (footprint "radio-receiver:radio-receiver")
