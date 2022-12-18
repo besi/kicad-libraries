@@ -1,0 +1,18 @@
+[submodule "lib/esp8266"]
+	path = lib/esp8266
+	url = https://github.com/besi/kicad-esp8266
+[submodule "lib/tp4056"]
+	path = lib/tp4056
+	url = https://github.com/besi/kicad-tp4056
+[submodule "lib/lilygo-sim"]
+	path = lib/lilygo-sim
+	url = https://github.com/besi/kicad-lilygo-sim
+[submodule "lib/relais-module"]
+	path = lib/relais-module
+	url = https://github.com/besi/kicad-relais-module
+[submodule "lib/esp-01m"]
+	path = lib/esp-01m
+	url = https://github.com/besi/kicad-esp-01m.git
+[submodule "lib/radio-receiver"]
+	path = lib/radio-receiver
+	url = https://github.com/besi/kicad-radio-receiver
