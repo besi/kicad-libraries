@@ -21,4 +21,4 @@
 	url = https://github.com/besi/kicad-dcdc
 [submodule "lib/neopixel-strip"]
 	path = lib/neopixel-strip
-	url = https://github.com/besi/kicad-neopixelstrip
+	url = https://github.com/besi/kicad-neopixel-strip
