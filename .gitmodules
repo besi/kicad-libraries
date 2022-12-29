@@ -22,3 +22,6 @@
 [submodule "lib/neopixel-strip"]
 	path = lib/neopixel-strip
 	url = https://github.com/besi/kicad-neopixel-strip
+[submodule "lib/mems-mic"]
+	path = lib/mems-mic
+	url = https://github.com/besi/kicad-mems-mic
