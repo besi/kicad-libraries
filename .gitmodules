@@ -28,3 +28,6 @@
 [submodule "lib/schurter-switch"]
 	path = lib/schurter-switch
 	url = https://github.com/besi/kicad-schurter-switch
+[submodule "lib/magnetic-pogo"]
+	path = lib/magnetic-pogo
+	url = https://github.com/besi/kicad-magnetic-pogo
