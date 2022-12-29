@@ -25,3 +25,6 @@
 [submodule "lib/mems-mic"]
 	path = lib/mems-mic
 	url = https://github.com/besi/kicad-mems-mic
+[submodule "lib/schurter-switch"]
+	path = lib/schurter-switch
+	url = https://github.com/besi/kicad-schurter-switch
