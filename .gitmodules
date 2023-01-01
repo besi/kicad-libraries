@@ -31,3 +31,6 @@
 [submodule "lib/magnetic-pogo"]
 	path = lib/magnetic-pogo
 	url = https://github.com/besi/kicad-magnetic-pogo
+[submodule "lib/ftdi-connector"]
+	path = lib/ftdi-connector
+	url = https://github.com/besi/kicad-ftdi-connector
