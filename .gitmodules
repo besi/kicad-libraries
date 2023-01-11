@@ -34,3 +34,9 @@
 [submodule "lib/ftdi-connector"]
 	path = lib/ftdi-connector
 	url = https://github.com/besi/kicad-ftdi-connector
+[submodule "lib/c8-inlet"]
+	path = lib/c8-inlet
+	url = https://github.com/besi/kicad-c8-inlet
+[submodule "lib/rdm-6300"]
+	path = lib/rdm-6300
+	url = https://github.com/besi/kicad-rdm-6300
