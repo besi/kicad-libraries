@@ -43,3 +43,6 @@
 [submodule "lib/magnetic-charger"]
 	path = lib/magnetic-charger
 	url = https://github.com/besi/kicad-magnetic-charger
+[submodule "lib/sd-card"]
+	path = lib/sd-card
+	url = https://github.com/besi/kicad-sd-card
