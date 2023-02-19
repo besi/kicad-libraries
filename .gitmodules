@@ -46,3 +46,6 @@
 [submodule "lib/sd-card"]
 	path = lib/sd-card
 	url = https://github.com/besi/kicad-sd-card
+[submodule "lib/adafruit-MAX98357"]
+	path = lib/adafruit-MAX98357
+	url = https://github.com/besi/kicad-adafruit-MAX98357
