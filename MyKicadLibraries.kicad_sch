@@ -2026,7 +2026,7 @@
   (symbol (lib_id "ftdi-connector:TTL") (at 126.746 53.848 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 435d2a60-6fae-43fe-9627-fd91fed8fe4a)
-    (property "Reference" "U?" (id 0) (at 133.604 53.8479 0)
+    (property "Reference" "U13" (id 0) (at 133.604 53.8479 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TTL" (id 1) (at 133.604 56.3879 0)
@@ -2549,7 +2549,7 @@
       (reference "U12") (unit 1) (value "adafruit-MAX98357") (footprint "adafruit-MAX98357:adafruit-MAX98357")
     )
     (path "/435d2a60-6fae-43fe-9627-fd91fed8fe4a"
-      (reference "U?") (unit 1) (value "TTL") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "U13") (unit 1) (value "TTL") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
   )
 )
