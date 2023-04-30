@@ -49,3 +49,9 @@
 [submodule "lib/adafruit-MAX98357"]
 	path = lib/adafruit-MAX98357
 	url = https://github.com/besi/kicad-adafruit-MAX98357
+[submodule "lib/lxb18"]
+	path = lib/lxb18
+	url = https://github.com/besi/kicad-lxb18
+[submodule "lib/rcj-22"]
+	path = lib/rcj-22
+	url = https://github.com/besi/kicad-rcj-22
