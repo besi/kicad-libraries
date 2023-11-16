@@ -55,3 +55,9 @@
 [submodule "lib/rcj-22"]
 	path = lib/rcj-22
 	url = https://github.com/besi/kicad-rcj-22
+[submodule "lib/esp32-wemos-d1-mini"]
+	path = lib/esp32-wemos-d1-mini
+	url = https://github.com/besi/kicad-esp32-wemos-d1-mini
+[submodule "lib/tcrt5000"]
+	path = lib/tcrt5000
+	url = https://github.com/besi/kicad-tcrt5000
