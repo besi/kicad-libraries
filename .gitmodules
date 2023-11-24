@@ -61,3 +61,6 @@
 [submodule "lib/tcrt5000"]
 	path = lib/tcrt5000
 	url = https://github.com/besi/kicad-tcrt5000
+[submodule "lib/midi"]
+	path = lib/midi
+	url = https://github.com/besi/kicad-midi
