@@ -20,4 +20,5 @@
   (lib (name "midi")(type "KiCad")(uri "${KIPRJMOD}/lib/midi/midi.pretty")(options "")(descr ""))
   (lib (name "esp32-wemos-d1-mini")(type "KiCad")(uri "${KIPRJMOD}/lib/esp32-wemos-d1-mini/esp32-wemos-d1-mini.pretty")(options "")(descr ""))
   (lib (name "tcrt5000")(type "KiCad")(uri "${KIPRJMOD}/lib/tcrt5000/tcrt5000.pretty")(options "")(descr ""))
+  (lib (name "usb-a-pcb")(type "KiCad")(uri "${KIPRJMOD}/lib/usb-a-pcb/usb-a-pcb.pretty")(options "")(descr ""))
 )

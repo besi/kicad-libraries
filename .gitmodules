@@ -64,3 +64,6 @@
 [submodule "lib/midi"]
 	path = lib/midi
 	url = https://github.com/besi/kicad-midi
+[submodule "lib/usb-a-pcb"]
+	path = lib/usb-a-pcb
+	url = https://github.com/besi/kicad-usb-a-pcb

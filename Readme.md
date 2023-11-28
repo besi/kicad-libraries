@@ -21,5 +21,6 @@
     git submodule add https://github.com/besi/kicad-midi lib/midi
     git submodule add https://github.com/besi/kicad-esp32-wemos-d1-mini lib/esp32-wemos-d1-mini
     git submodule add https://github.com/besi/kicad-tcrt5000 lib/tcrt5000
+    git submodule add https://github.com/besi/kicad-usb-a-pcb lib/usb-a-pcb
 
     
