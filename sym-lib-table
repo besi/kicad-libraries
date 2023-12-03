@@ -17,4 +17,5 @@
   (lib (name "rcj-22")(type "KiCad")(uri "${KIPRJMOD}/lib/rcj-22/rcj-22.kicad_sym")(options "")(descr ""))
   (lib (name "esp32-wemos-d1-mini")(type "KiCad")(uri "${KIPRJMOD}/lib/esp32-wemos-d1-mini/esp32-wemos-d1-mini.kicad_sym")(options "")(descr ""))
   (lib (name "tcrt5000")(type "KiCad")(uri "${KIPRJMOD}/lib/tcrt5000/tcrt5000.kicad_sym")(options "")(descr ""))
+  (lib (name "tcnd5000")(type "KiCad")(uri "${KIPRJMOD}/lib/tcnd5000/tcnd5000.kicad_sym")(options "")(descr ""))
 )

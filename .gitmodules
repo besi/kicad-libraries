@@ -67,3 +67,6 @@
 [submodule "lib/usb-a-pcb"]
 	path = lib/usb-a-pcb
 	url = https://github.com/besi/kicad-usb-a-pcb
+[submodule "lib/tcnd5000"]
+	path = lib/tcnd5000
+	url = https://github.com/besi/kicad-tcnd5000
