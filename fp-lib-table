@@ -22,4 +22,5 @@
   (lib (name "tcrt5000")(type "KiCad")(uri "${KIPRJMOD}/lib/tcrt5000/tcrt5000.pretty")(options "")(descr ""))
   (lib (name "usb-a-pcb")(type "KiCad")(uri "${KIPRJMOD}/lib/usb-a-pcb/usb-a-pcb.pretty")(options "")(descr ""))
   (lib (name "tcnd5000")(type "KiCad")(uri "${KIPRJMOD}/lib/tcnd5000/tcnd5000.pretty")(options "")(descr ""))
+  (lib (name "opb607a")(type "KiCad")(uri "${KIPRJMOD}/lib/opb607a/opb607a.pretty")(options "")(descr ""))
 )

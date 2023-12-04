@@ -70,3 +70,6 @@
 [submodule "lib/tcnd5000"]
 	path = lib/tcnd5000
 	url = https://github.com/besi/kicad-tcnd5000
+[submodule "lib/opb607a"]
+	path = lib/opb607a
+	url = https://github.com/besi/kicad-opb607a.git
