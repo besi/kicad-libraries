@@ -73,3 +73,6 @@
 [submodule "lib/opb607a"]
 	path = lib/opb607a
 	url = https://github.com/besi/kicad-opb607a.git
+[submodule "lib/max98367"]
+	path = lib/max98367
+	url = https://github.com/besi/kicad-max98367

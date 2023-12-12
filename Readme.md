@@ -23,6 +23,6 @@
     git submodule add https://github.com/besi/kicad-tcrt5000 lib/tcrt5000
     git submodule add https://github.com/besi/kicad-usb-a-pcb lib/usb-a-pcb
     git submodule add https://github.com/besi/kicad-tcnd5000 lib/tcnd5000
-
+    git submodule add https://github.com/besi/kicad-max98367 lib/max98367
     
     git submodule sync

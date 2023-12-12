@@ -19,4 +19,5 @@
   (lib (name "tcrt5000")(type "KiCad")(uri "${KIPRJMOD}/lib/tcrt5000/tcrt5000.kicad_sym")(options "")(descr ""))
   (lib (name "tcnd5000")(type "KiCad")(uri "${KIPRJMOD}/lib/tcnd5000/tcnd5000.kicad_sym")(options "")(descr ""))
   (lib (name "opb607a")(type "KiCad")(uri "${KIPRJMOD}/lib/opb607a/opb607a.kicad_sym")(options "")(descr ""))
+  (lib (name "max98367")(type "KiCad")(uri "${KIPRJMOD}/lib/max98367/max98367.kicad_sym")(options "")(descr ""))
 )
