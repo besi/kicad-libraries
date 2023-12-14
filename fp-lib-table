@@ -24,4 +24,5 @@
   (lib (name "tcnd5000")(type "KiCad")(uri "${KIPRJMOD}/lib/tcnd5000/tcnd5000.pretty")(options "")(descr ""))
   (lib (name "opb607a")(type "KiCad")(uri "${KIPRJMOD}/lib/opb607a/opb607a.pretty")(options "")(descr ""))
   (lib (name "max98367")(type "KiCad")(uri "${KIPRJMOD}/lib/max98367/max98367.pretty")(options "")(descr ""))
+  (lib (name "esp-01f")(type "KiCad")(uri "${KIPRJMOD}/lib/esp-01f/esp-01f.pretty")(options "")(descr ""))
 )

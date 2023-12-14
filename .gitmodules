@@ -76,3 +76,6 @@
 [submodule "lib/max98367"]
 	path = lib/max98367
 	url = https://github.com/besi/kicad-max98367
+[submodule "lib/esp-01f"]
+	path = lib/esp-01f
+	url = https://github.com/besi/kicad-esp-01f
