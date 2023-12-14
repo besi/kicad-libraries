@@ -3780,7 +3780,7 @@
   (symbol (lib_id "esp-01F:esp-01f") (at -73.787 111.125 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a59c9e31-3e0a-452d-94a1-3fdadb80282b)
-    (property "Reference" "U?" (id 0) (at -73.787 85.09 0))
+    (property "Reference" "U19" (id 0) (at -73.787 85.09 0))
     (property "Value" "esp-01f" (id 1) (at -73.787 87.63 0))
     (property "Footprint" "esp-01f:esp-01f" (id 2) (at -87.122 142.875 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
@@ -4255,7 +4255,7 @@
       (reference "U18") (unit 1) (value "max98367") (footprint "max98367:max98367")
     )
     (path "/a59c9e31-3e0a-452d-94a1-3fdadb80282b"
-      (reference "U?") (unit 1) (value "esp-01f") (footprint "esp-01f:esp-01f")
+      (reference "U19") (unit 1) (value "esp-01f") (footprint "esp-01f:esp-01f")
     )
   )
 )
