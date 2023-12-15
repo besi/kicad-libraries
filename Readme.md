@@ -25,5 +25,7 @@
     git submodule add https://github.com/besi/kicad-tcnd5000 lib/tcnd5000
     git submodule add https://github.com/besi/kicad-max98367 lib/max98367
     git submodule add https://github.com/besi/kicad-esp-01f lib/esp-01f    
-    
-    git submodule sync
+
+Synchronise the git submodules
+
+    git submodule update --init --recursive
