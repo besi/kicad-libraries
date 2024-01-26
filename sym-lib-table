@@ -3,7 +3,7 @@
   (lib (name "esp-01m")(type "KiCad")(uri "${KIPRJMOD}/lib/esp-01m/esp-01m.kicad_sym")(options "")(descr ""))
   (lib (name "relais_module")(type "KiCad")(uri "${KIPRJMOD}/lib/relais-module/relais_module.kicad_sym")(options "")(descr ""))
   (lib (name "LilygoSimT7000")(type "KiCad")(uri "${KIPRJMOD}/lib/lilygo-sim/LilygoSimT7000.kicad_sym")(options "")(descr ""))
-  (lib (name "TP4056")(type "KiCad")(uri "${KIPRJMOD}/lib/tp4056/TP4056.kicad_sym")(options "")(descr ""))
+  (lib (name "tp4056")(type "KiCad")(uri "${KIPRJMOD}/lib/tp4056/TP4056.kicad_sym")(options "")(descr ""))
   (lib (name "ESP8266")(type "KiCad")(uri "${KIPRJMOD}/lib/esp8266/ESP8266.kicad_sym")(options "")(descr ""))
   (lib (name "dcdc")(type "KiCad")(uri "${KIPRJMOD}/lib/dcdc/dcdc.kicad_sym")(options "")(descr ""))
   (lib (name "mems-mic")(type "KiCad")(uri "${KIPRJMOD}/lib/mems-mic/mems-mic.kicad_sym")(options "")(descr ""))
