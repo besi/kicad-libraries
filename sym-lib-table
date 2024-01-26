@@ -21,4 +21,5 @@
   (lib (name "opb607a")(type "KiCad")(uri "${KIPRJMOD}/lib/opb607a/opb607a.kicad_sym")(options "")(descr ""))
   (lib (name "max98367")(type "KiCad")(uri "${KIPRJMOD}/lib/max98367/max98367.kicad_sym")(options "")(descr ""))
   (lib (name "esp-01F")(type "KiCad")(uri "${KIPRJMOD}/lib/esp-01f/esp-01F.kicad_sym")(options "")(descr ""))
+  (lib (name "m18")(type "KiCad")(uri "${KIPRJMOD}/lib/m18/m18.kicad_sym")(options "")(descr ""))
 )

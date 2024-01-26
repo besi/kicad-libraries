@@ -26,6 +26,7 @@
     git submodule add https://github.com/besi/kicad-max98367 lib/max98367
     git submodule add https://github.com/besi/kicad-esp-01f lib/esp-01f    
     git submodule add https://github.com/besi/kicad-bme280 lib/bme280
+    git submodule add https://github.com/besi/kicad-m18 lib/m18
 
 Synchronise the git submodules
 
