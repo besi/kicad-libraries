@@ -79,9 +79,9 @@
 [submodule "lib/esp-01f"]
 	path = lib/esp-01f
 	url = https://github.com/besi/kicad-esp-01f
-[submodule "kicad-bme280"]
-	path = kicad-bme280
-	url = https://github.com/besi/kicad-bme280
 [submodule "lib/m18"]
 	path = lib/m18
 	url = https://github.com/besi/kicad-m18
+[submodule "lib/bme280"]
+	path = lib/bme280
+	url = https://github.com/besi/kicad-bme280

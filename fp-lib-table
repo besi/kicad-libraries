@@ -26,4 +26,5 @@
   (lib (name "max98367")(type "KiCad")(uri "${KIPRJMOD}/lib/max98367/max98367.pretty")(options "")(descr ""))
   (lib (name "esp-01f")(type "KiCad")(uri "${KIPRJMOD}/lib/esp-01f/esp-01f.pretty")(options "")(descr ""))
   (lib (name "m18")(type "KiCad")(uri "${KIPRJMOD}/lib/m18/m18.pretty")(options "")(descr ""))
+  (lib (name "bme280")(type "KiCad")(uri "${KIPRJMOD}/lib/bme280/bme280.pretty")(options "")(descr ""))
 )
