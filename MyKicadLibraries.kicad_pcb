@@ -1449,7 +1449,7 @@
 
   (footprint "bme280:bme280" (layer "F.Cu")
     (tedit 0) (tstamp 76c47628-a069-42a1-9b8e-3f1fcb0168c1)
-    (at 347 154)
+    (at 214.9475 40.855)
     (property "Sheetfile" "MyKicadLibraries.kicad_sch")
     (property "Sheetname" "")
     (path "/06cd0ca5-5eff-4032-bb89-6a28866f3c0c")
@@ -2771,7 +2771,6 @@
   (gr_rect (start 236.677 97.385) (end 209.753 76.049) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 7266284d-0efa-4e17-98a5-55c25657d8d8))
   (gr_rect (start 206.705 143.105) (end 219.405 150.725) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 7a22a14d-b09b-4144-8f9e-c2f23b297476))
   (gr_rect (start 68.042948 32.770045) (end 252.405 167.485) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 7d120e12-6bea-4f2b-81d0-93214d7855a8))
-  (gr_rect (start 335 136) (end 376 172) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp ccccf167-ef40-4086-a18d-51680a52b877))
 
   (segment (start 72.593 104.497) (end 90.881 104.497) (width 0.8) (layer "F.Cu") (net 82) (tstamp e0b81361-5320-4e71-8f60-e1d65821e1f4))
   (segment (start 72.593 97.385) (end 90.881 97.385) (width 0.8) (layer "F.Cu") (net 83) (tstamp 95b38c5b-6561-422e-8e63-b5880b56e532))
