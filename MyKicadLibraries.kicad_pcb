@@ -654,7 +654,7 @@
 
   (footprint "midi:midi-din6" (layer "F.Cu")
     (tedit 44834F21) (tstamp 1399fbef-edd7-472b-8205-46649c490b6d)
-    (at 234.137 56.237)
+    (at 215 162)
     (tags "MINI DIN")
     (property "Sheetfile" "MyKicadLibraries.kicad_sch")
     (property "Sheetname" "")
@@ -926,7 +926,7 @@
 
   (footprint "c8-inlet:c8-inlet" (layer "F.Cu")
     (tedit 0) (tstamp 362466b3-11b0-4040-8715-ae1423420f2d)
-    (at 194.005 94.575)
+    (at 195 156)
     (descr "https://www.switchcraft.com/assets/1/24/RAPC322X_CD.PDF?4597")
     (property "Sheetfile" "MyKicadLibraries.kicad_sch")
     (property "Sheetname" "")
@@ -1252,7 +1252,7 @@
 
   (footprint "midi:midi" (layer "F.Cu")
     (tedit 58B225B8) (tstamp 5c61452c-34a5-4fc0-bbb7-dcdd38cf6652)
-    (at 173.685 97.95777)
+    (at 138 160)
     (descr "Din 5 (MIDI), Pro Signal P/N PSG03463")
     (property "Sheetfile" "MyKicadLibraries.kicad_sch")
     (property "Sheetname" "")
@@ -1926,7 +1926,7 @@
 
   (footprint "tp4056:tp4056" (layer "F.Cu")
     (tedit 58E55FCB) (tstamp 9d26ae91-0c56-49e0-95ce-b264753aec75)
-    (at 168 152)
+    (at 199 102)
     (property "Sheetfile" "MyKicadLibraries.kicad_sch")
     (property "Sheetname" "")
     (path "/be776797-d185-4aa8-885c-a32f4e60d5ee")
@@ -2672,7 +2672,7 @@
 
   (footprint "rcj-22:rcj-22" (layer "F.Cu")
     (tedit 644E64E5) (tstamp f43258c9-9497-48fe-a8d7-c93661151b80)
-    (at 135.405 128.485 180)
+    (at 158 157.3 180)
     (property "Sheetfile" "MyKicadLibraries.kicad_sch")
     (property "Sheetname" "")
     (path "/4e8a5cd3-7bbd-43a2-b3b1-8113fc79bbd5")
