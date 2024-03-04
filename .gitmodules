@@ -85,3 +85,6 @@
 [submodule "lib/bme280"]
 	path = lib/bme280
 	url = https://github.com/besi/kicad-bme280
+[submodule "lib/molex-poe"]
+	path = lib/molex-poe
+	url = https://github.com/besi/kicad-molex-poe

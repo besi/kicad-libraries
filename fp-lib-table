@@ -1,4 +1,5 @@
 (fp_lib_table
+  (version 7)
   (lib (name "radio-receiver")(type "KiCad")(uri "${KIPRJMOD}/lib/radio-receiver/radio-receiver.pretty")(options "")(descr ""))
   (lib (name "esp-01m")(type "KiCad")(uri "${KIPRJMOD}/lib/esp-01m/esp-01m.pretty")(options "")(descr ""))
   (lib (name "relais_module")(type "KiCad")(uri "${KIPRJMOD}/lib/relais-module/relais_module.pretty")(options "")(descr ""))
@@ -27,4 +28,5 @@
   (lib (name "esp-01f")(type "KiCad")(uri "${KIPRJMOD}/lib/esp-01f/esp-01f.pretty")(options "")(descr ""))
   (lib (name "m18")(type "KiCad")(uri "${KIPRJMOD}/lib/m18/m18.pretty")(options "")(descr ""))
   (lib (name "bme280")(type "KiCad")(uri "${KIPRJMOD}/lib/bme280/bme280.pretty")(options "")(descr ""))
+  (lib (name "molex-poe")(type "KiCad")(uri "${KIPRJMOD}/lib/molex-poe/molex-poe.pretty")(options "")(descr ""))
 )
