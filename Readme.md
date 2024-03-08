@@ -29,7 +29,8 @@
     git submodule add https://github.com/besi/kicad-m18                 lib/m18
     git submodule add https://github.com/besi/kicad-dd1718pa            lib/dd1718pa
     git submodule add https://github.com/besi/kicad-dd1718pa            lib/opb607a
-        git submodule add https://github.com/besi/kicad-molex-poe lib/molex-poe
+    git submodule add https://github.com/besi/kicad-molex-poe           lib/molex-poe
+    git submodule add https://github.com/besi/kicad-as12ap              lib/as12ap
 
 Synchronise the git submodules
 
