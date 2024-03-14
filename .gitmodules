@@ -94,3 +94,6 @@
 [submodule "lib/as12ap"]
 	path = lib/as12ap
 	url = https://github.com/besi/kicad-as12ap
+[submodule "lib/charge-module"]
+	path = lib/charge-module
+	url = https://github.com/besi/kicad-charge-module
