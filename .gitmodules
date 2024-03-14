@@ -88,3 +88,9 @@
 [submodule "lib/pogo-connector"]
 	path = lib/pogo-connector
 	url = https://github.com/besi/kicad-pogo-connector
+[submodule "lib/molex-poe"]
+	path = lib/molex-poe
+	url = https://github.com/besi/kicad-molex-poe
+[submodule "lib/as12ap"]
+	path = lib/as12ap
+	url = https://github.com/besi/kicad-as12ap
