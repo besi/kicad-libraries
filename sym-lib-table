@@ -25,4 +25,5 @@
   (lib (name "m18")(type "KiCad")(uri "${KIPRJMOD}/lib/m18/m18.kicad_sym")(options "")(descr ""))
   (lib (name "bme280")(type "KiCad")(uri "${KIPRJMOD}/lib/bme280/bme280.kicad_sym")(options "")(descr ""))
   (lib (name "molex-poe")(type "KiCad")(uri "${KIPRJMOD}/lib/molex-poe/molex-poe.kicad_sym")(options "")(descr ""))
+  (lib (name "charge-module")(type "KiCad")(uri "${KIPRJMOD}/lib/charge-module/charge-module.kicad_sym")(options "")(descr ""))
 )
