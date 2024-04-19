@@ -31,4 +31,5 @@
   (lib (name "molex-poe")(type "KiCad")(uri "${KIPRJMOD}/lib/molex-poe/molex-poe.pretty")(options "")(descr ""))
   (lib (name "as12ap")(type "KiCad")(uri "${KIPRJMOD}/lib/as12ap/as12ap.pretty")(options "")(descr ""))
   (lib (name "charge-module")(type "KiCad")(uri "${KIPRJMOD}/lib/charge-module/charge-module.pretty")(options "")(descr ""))
+  (lib (name "ld2450")(type "KiCad")(uri "${KIPRJMOD}/lib/ld2450/ld2450.pretty")(options "")(descr ""))
 )

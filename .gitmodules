@@ -97,3 +97,6 @@
 [submodule "lib/charge-module"]
 	path = lib/charge-module
 	url = https://github.com/besi/kicad-charge-module
+[submodule "lib/ld2450"]
+	path = lib/ld2450
+	url = https://github.com/besi/kicad-ld2450

@@ -35,7 +35,7 @@
     git submodule add https://github.com/besi/kicad-as12ap              lib/as12ap
     git submodule add https://github.com/besi/kicad-charge-module       lib/charge-module
     git submodule add https://github.com/besi/kicad-pts636              lib/pts636
-
+    git submodule add https://github.com/besi/kicad-ld2450              lib/ld2450
 
 
 Synchronise the git submodules
