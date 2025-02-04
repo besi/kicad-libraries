@@ -37,6 +37,7 @@
     git submodule add https://github.com/besi/kicad-pts636              lib/pts636
     git submodule add https://github.com/besi/kicad-ld2450              lib/ld2450
     git submodule add https://github.com/besi/kicad-c3-pico             lib/c3-pico
+    git submodule add https://github.com/besi/kicad-qwiic-adapter       lib/qwiic-adapter
 
 Synchronise the git submodules
 
