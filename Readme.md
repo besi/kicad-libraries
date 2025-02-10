@@ -38,6 +38,8 @@
     git submodule add https://github.com/besi/kicad-ld2450              lib/ld2450
     git submodule add https://github.com/besi/kicad-c3-pico             lib/c3-pico
     git submodule add https://github.com/besi/kicad-qwiic-adapter       lib/qwiic-adapter
+    git submodule add https://github.com/besi/kicad-dcf77               lib/dcf77
+
 
 Synchronise the git submodules
 

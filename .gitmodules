@@ -100,3 +100,6 @@
 [submodule "lib/ld2450"]
 	path = lib/ld2450
 	url = https://github.com/besi/kicad-ld2450
+[submodule "lib/dcf77"]
+	path = lib/dcf77
+	url = https://github.com/besi/kicad-dcf77
