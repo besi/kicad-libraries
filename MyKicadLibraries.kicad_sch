@@ -14574,6 +14574,75 @@
 		)
 	)
 	(symbol
+		(lib_id "c8-inlet:c8-inlet")
+		(at 81.28 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4cec18f-afd1-4bb0-a66f-ea3eff4f4cbf")
+		(property "Reference" "J16"
+			(at 81.28 68.834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "c8-inlet"
+			(at 81.3816 81.7372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "c8-inlet:c8-inlet-old"
+			(at 83.4644 86.6648 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.switchcraft.com/assets/1/24/RAPC322X_CD.PDF?4597"
+			(at 86.0552 84.2264 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 81.28 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7b51c677-c469-4d57-bd6a-1137b902c07b")
+		)
+		(pin "2"
+			(uuid "e70c8014-67fd-4c2c-89b7-1dd0b0d0c6c4")
+		)
+		(instances
+			(project "MyKicadLibraries"
+				(path "/617e9334-d525-4cea-bd80-5d6e744b2555"
+					(reference "J16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "tcrt5000:TCRT5000")
 		(at 26.416 23.876 0)
 		(unit 1)
