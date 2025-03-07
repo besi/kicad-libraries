@@ -103,3 +103,6 @@
 [submodule "lib/dcf77"]
 	path = lib/dcf77
 	url = https://github.com/besi/kicad-dcf77
+[submodule "lib/c3-pico"]
+	path = lib/c3-pico
+	url = https://github.com/besi/kicad-c3-pico
