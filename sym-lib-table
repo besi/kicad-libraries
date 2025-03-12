@@ -30,5 +30,5 @@
   (lib (name "c3-pico")(type "KiCad")(uri "${KIPRJMOD}/lib/c3-pico/c3-pico.kicad_sym")(options "")(descr ""))
   (lib (name "qwiic-adapter")(type "KiCad")(uri "${KIPRJMOD}/lib/qwiic-adapter/qwiic-adapter.kicad_sym")(options "")(descr ""))
   (lib (name "dcf77")(type "KiCad")(uri "${KIPRJMOD}/lib/dcf77/dcf77.kicad_sym")(options "")(descr ""))
-  (lib (name "abc")(type "KiCad")(uri "${KIPRJMOD}/lib/dcf77/abc.kicad_sym")(options "")(descr ""))
+  (lib (name "28byj")(type "KiCad")(uri "${KIPRJMOD}/lib/28byj/28byj.kicad_sym")(options "")(descr ""))
 )
