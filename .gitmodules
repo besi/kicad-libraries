@@ -112,3 +112,6 @@
 [submodule "lib/28byj"]
 	path = lib/28byj
 	url = https://github.com/besi/kicad-28byj
+[submodule "lib/pts636"]
+	path = lib/pts636
+	url = https://github.com/besi/kicad-pts636

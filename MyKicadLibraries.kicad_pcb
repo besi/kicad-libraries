@@ -457,6 +457,8 @@
 	(net 336 "unconnected-(U28-GND-Pad2)")
 	(net 337 "unconnected-(U1-A-Pad6)")
 	(net 338 "unconnected-(U1-B-Pad5)")
+	(net 339 "unconnected-(SW3-Pad2)")
+	(net 340 "unconnected-(SW3-Pad1)")
 	(footprint "esp-01f:esp-01f"
 		(layer "F.Cu")
 		(uuid "087868bf-fc5d-4158-8932-a23db3d23d58")
@@ -10141,6 +10143,170 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "pts636:pts636"
+		(layer "F.Cu")
+		(uuid "9a4ddb9b-c1da-4a7c-aad0-0e6f1043eda4")
+		(at 173.4 37.5)
+		(descr "<b>PTS636 SM43 LFS-1</b><br>")
+		(property "Reference" "SW3"
+			(at 1 -2.5 0)
+			(layer "F.SilkS")
+			(uuid "0cc154f9-3bed-47b9-b35a-2aa3ff31c657")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 3.5 3 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4170d503-cc27-4df9-a87d-c571b4dda767")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "pts636:pts636"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4d72acd1-bffc-41fd-aa53-4721c249b60e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29fe56e0-4f4b-4544-95c7-40f15e790796")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "540752f6-4cca-44b6-8661-c7b7687c9c6f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/4ef13f56-317b-4528-989f-b71da52cfa0e")
+		(sheetname "Root")
+		(sheetfile "MyKicadLibraries.kicad_sch")
+		(attr through_hole)
+		(fp_line
+			(start 0.2 -1.75)
+			(end 6.2 -1.75)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "01be945b-90e7-4c54-845b-7d1d8492927e")
+		)
+		(fp_line
+			(start 0.2 1.75)
+			(end 6.2 1.75)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "2d7388e3-88e2-45ac-8f26-eb74a2395f2f")
+		)
+		(fp_line
+			(start 0.2 -1.75)
+			(end 6.2 -1.75)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "5771cfea-f283-48c3-9f6b-e7cbf20906d5")
+		)
+		(fp_line
+			(start 0.2 1.75)
+			(end 0.2 -1.75)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "0484ea91-684e-4738-9b22-f8d79f9f4241")
+		)
+		(fp_line
+			(start 6.2 -1.75)
+			(end 6.2 1.75)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "587d696f-8e60-46f2-b25d-5cbe82a31b59")
+		)
+		(fp_line
+			(start 6.2 1.75)
+			(end 0.2 1.75)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "5d76a747-7458-46a2-9a6b-3832005512fa")
+		)
+		(pad "1" thru_hole oval
+			(at 0 0)
+			(size 2.5 1.7)
+			(drill 1.2)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 340 "unconnected-(SW3-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
+			(solder_mask_margin 0.102)
+			(uuid "92c8905e-4452-4f86-af5f-8bda21fe0b01")
+		)
+		(pad "2" thru_hole oval
+			(at 6.4 0)
+			(size 2.5 1.7)
+			(drill 1.2)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 339 "unconnected-(SW3-Pad2)")
+			(pinfunction "2")
+			(pintype "passive")
+			(solder_mask_margin 0.102)
+			(uuid "65fb063d-f2a6-4de4-9e2c-41aff9c50929")
+		)
+		(model "${KIPRJMOD}/lib/pts636/pts636.step"
+			(offset
+				(xyz 3.25 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
 			)
 		)
 	)

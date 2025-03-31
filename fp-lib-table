@@ -36,4 +36,5 @@
   (lib (name "qwiic-adapter")(type "KiCad")(uri "${KIPRJMOD}/lib/qwiic-adapter/qwiic-adapter.pretty")(options "")(descr ""))
   (lib (name "dcf77")(type "KiCad")(uri "${KIPRJMOD}/lib/dcf77/dcf77.pretty")(options "")(descr ""))
   (lib (name "28byj")(type "KiCad")(uri "${KIPRJMOD}/lib/28byj/28byj.pretty")(options "")(descr ""))
+  (lib (name "pts636")(type "KiCad")(uri "${KIPRJMOD}/lib/pts636/pts636.pretty")(options "")(descr ""))
 )

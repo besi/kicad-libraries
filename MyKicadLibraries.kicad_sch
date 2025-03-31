@@ -13266,6 +13266,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 107.95 19.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ef13f56-317b-4528-989f-b71da52cfa0e")
+		(property "Reference" "SW3"
+			(at 107.95 11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 107.95 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "pts636:pts636"
+			(at 107.95 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 107.95 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 107.95 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b91d5764-020a-45c4-8e4a-030ae111bb4d")
+		)
+		(pin "2"
+			(uuid "f7706aa5-3df0-4129-8d73-3e638e3abf76")
+		)
+		(instances
+			(project ""
+				(path "/617e9334-d525-4cea-bd80-5d6e744b2555"
+					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "opb607a:opb607a")
 		(at 54.61 24.13 0)
 		(unit 1)

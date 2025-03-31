@@ -34,12 +34,12 @@
     git submodule add https://github.com/besi/kicad-molex-poe           lib/molex-poe
     git submodule add https://github.com/besi/kicad-as12ap              lib/as12ap
     git submodule add https://github.com/besi/kicad-charge-module       lib/charge-module
-    git submodule add https://github.com/besi/kicad-pts636              lib/pts636
     git submodule add https://github.com/besi/kicad-ld2450              lib/ld2450
     git submodule add https://github.com/besi/kicad-c3-pico             lib/c3-pico
     git submodule add https://github.com/besi/kicad-qwiic-adapter       lib/qwiic-adapter
     git submodule add https://github.com/besi/kicad-dcf77               lib/dcf77
     git submodule add https://github.com/besi/kicad-28byj lib/28byj
+    git submodule add https://github.com/besi/kicad-pts636              lib/pts636
 
 
 Synchronise the git submodules
