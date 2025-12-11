@@ -16305,7 +16305,7 @@
 			(at 0 -0.635 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "094269c7-ce7e-4ef9-98cf-818afcdd2aaf")
+			(uuid "337996dd-3e27-40c7-b5f4-0e2f6a7ad5de")
 			(effects
 				(font
 					(size 1 1)
@@ -16317,7 +16317,7 @@
 			(at 0 11.43 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "7bf9e079-0c5e-45b5-9334-16c7532429b6")
+			(uuid "14f2fbbd-9a71-440b-88e1-b917df1a5e6b")
 			(effects
 				(font
 					(size 1 1)
@@ -16329,7 +16329,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7f530efd-c5bb-40a3-85cb-1f7959d663ed")
+			(uuid "2d64fe66-912d-48c2-b8ba-e04bb83e909f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16341,7 +16341,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a79df75c-37d6-4365-be49-06f37a2fb2e8")
+			(uuid "68432e03-1a3a-4e1b-84c9-27305db3dfd8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16353,7 +16353,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "74627796-fd82-48dc-bce8-c9a3b683bc91")
+			(uuid "33242863-c44b-44c5-a58f-814db09abfcc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16374,7 +16374,106 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "f231742d-13b3-40a0-bd74-af2de26e9b3f")
+			(uuid "363123b2-8d0c-4ada-95d3-9d135e2f3432")
+		)
+		(fp_rect
+			(start -9.5 -5)
+			(end -7 0)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "1945186d-817c-4aa4-8e78-45ec4198de11")
+		)
+		(fp_rect
+			(start -9.5 7.5)
+			(end -3 12.5)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "69111308-c7a9-4af0-b5ac-7cf03a6fc9f8")
+		)
+		(fp_rect
+			(start -9 -12.5)
+			(end -3 -9)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "61e555fa-ec52-46ca-a7f6-1ac2586a1f18")
+		)
+		(fp_rect
+			(start -6.25 -5)
+			(end -3.75 0)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "a6a1bf8f-d103-4b07-a579-0a12032d9702")
+		)
+		(fp_rect
+			(start -2 6.5)
+			(end 8.5 12.5)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "01519fbf-5f46-4801-8f05-f80e6b586b6a")
+		)
+		(fp_rect
+			(start 0 -4)
+			(end 6.5 2)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "cd2571f9-9b06-4213-aeb2-aa9a13df8351")
+		)
+		(fp_rect
+			(start 4.5 -12)
+			(end 10 -10.5)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "53adce51-88b9-4363-9197-6c1e71fd2b3f")
+		)
+		(fp_circle
+			(center -8.25 -2.5)
+			(end -7.25 -3)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "025b65ac-a94b-4ab4-acdc-26998f0bd901")
+		)
+		(fp_circle
+			(center -5 -2.5)
+			(end -4 -3)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "345b4c4a-7387-4c69-8bf4-cc1963eb1307")
 		)
 		(fp_line
 			(start 12.784354 12.733656)
@@ -16384,13 +16483,65 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "f1a12c50-a21a-48ce-8cd7-8571466748f6")
+			(uuid "28f44f18-0951-44ec-9be3-369613a44f8a")
+		)
+		(fp_text user "ANT"
+			(at 6 -10.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "2eb0d884-c401-4d67-81e5-b6cafa02a45c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+				(justify left bottom)
+			)
+		)
+		(fp_text user "I2C"
+			(at -7 -10 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "56e90c9f-d0fd-49cc-b021-0d4dd23372ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+				(justify left bottom)
+			)
+		)
+		(fp_text user "USB-C"
+			(at 0.5 10.25 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "7004b653-a001-48ad-9b06-8b7310e82934")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+				(justify left bottom)
+			)
+		)
+		(fp_text user "BAT"
+			(at -8 11 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "b620d592-a376-4354-8c9d-8251143be882")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+				(justify left bottom)
+			)
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 3.77 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "a75069e9-6653-41fa-8680-2c16743f5a00")
+			(uuid "6bd47b13-ad37-4a2e-8128-df0313e9d90c")
 			(effects
 				(font
 					(size 1 1)
@@ -16407,7 +16558,7 @@
 			(net 315 "unconnected-(U26-5V-Pad1)")
 			(pinfunction "5V")
 			(pintype "power_in")
-			(uuid "f4e32f3d-a8cc-4f49-8668-3d173b47dc5c")
+			(uuid "d9aa01fb-076d-45e9-a14a-d68e5a278064")
 		)
 		(pad "2" thru_hole circle
 			(at 11.43 8.89)
@@ -16418,7 +16569,7 @@
 			(net 316 "unconnected-(U26-GND-Pad2)")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "e7502b99-10c9-444e-b6a0-0c429e8ca787")
+			(uuid "3121a1d8-bdc3-44f8-b2f2-06e12ddacd79")
 		)
 		(pad "3" thru_hole circle
 			(at 11.43 6.35)
@@ -16429,7 +16580,7 @@
 			(net 317 "unconnected-(U26-IO6-Pad3)")
 			(pinfunction "IO6")
 			(pintype "bidirectional")
-			(uuid "1dfffdea-2bd5-4459-8600-d6cbf2c0abdf")
+			(uuid "141fd615-e886-4812-8743-2bccad50fa7c")
 		)
 		(pad "4" thru_hole circle
 			(at 11.43 3.81)
@@ -16440,7 +16591,7 @@
 			(net 318 "unconnected-(U26-RGB{slash}IO7-Pad4)")
 			(pinfunction "RGB/IO7")
 			(pintype "bidirectional")
-			(uuid "28965e7c-586b-4769-9e0a-530a109d7f30")
+			(uuid "399dd7f0-a12f-4c22-a6b5-5f9d0a22ebd5")
 		)
 		(pad "5" thru_hole circle
 			(at 11.43 1.27)
@@ -16451,7 +16602,7 @@
 			(net 319 "unconnected-(U26-SDA{slash}IO8-Pad5)")
 			(pinfunction "SDA/IO8")
 			(pintype "bidirectional")
-			(uuid "2467d3dc-e448-4456-b658-61e87658bfcf")
+			(uuid "f7c4ad3a-a504-4830-b5b7-46937860d2e0")
 		)
 		(pad "6" thru_hole circle
 			(at 11.43 -1.27)
@@ -16462,7 +16613,7 @@
 			(net 320 "unconnected-(U26-SCL{slash}IO10-Pad6)")
 			(pinfunction "SCL/IO10")
 			(pintype "input")
-			(uuid "9bfd7539-2465-4da2-bd2d-6df1012b12fc")
+			(uuid "c5037ee1-e708-4092-8c13-183c6b825761")
 		)
 		(pad "7" thru_hole circle
 			(at 11.43 -3.81)
@@ -16473,7 +16624,7 @@
 			(net 321 "unconnected-(U26-RX-Pad7)")
 			(pinfunction "RX")
 			(pintype "input")
-			(uuid "d47734af-5b9b-4915-ab4e-3f66b1c80d53")
+			(uuid "75669c11-a87d-40c3-9733-fdca594a925d")
 		)
 		(pad "8" thru_hole circle
 			(at 11.43 -6.35)
@@ -16484,7 +16635,7 @@
 			(net 322 "unconnected-(U26-TX{slash}IO21-Pad8)")
 			(pinfunction "TX/IO21")
 			(pintype "output")
-			(uuid "fe97a20a-b044-471c-8c50-bd81cffbfc8a")
+			(uuid "1966edd1-1598-4f92-bdab-27e84d26b915")
 		)
 		(pad "9" thru_hole circle
 			(at -11.43 11.43)
@@ -16495,7 +16646,7 @@
 			(net 323 "unconnected-(U26-3V3-Pad9)")
 			(pinfunction "3V3")
 			(pintype "power_in")
-			(uuid "b3be4082-974b-44c2-9778-b02a2533364f")
+			(uuid "9e8a13a3-34db-45a8-acbe-3906ba2efb12")
 		)
 		(pad "10" thru_hole circle
 			(at -11.43 8.89)
@@ -16506,7 +16657,7 @@
 			(net 324 "unconnected-(U26-IO5-Pad10)")
 			(pinfunction "IO5")
 			(pintype "bidirectional")
-			(uuid "50b4afb7-3f23-4761-9c78-f7206e4efa08")
+			(uuid "b44442c5-1dec-416f-b22b-41e04a04cb2e")
 		)
 		(pad "11" thru_hole circle
 			(at -11.43 6.35)
@@ -16517,7 +16668,7 @@
 			(net 325 "unconnected-(U26-IO4{slash}MOSI-Pad11)")
 			(pinfunction "IO4/MOSI")
 			(pintype "bidirectional")
-			(uuid "62021e89-41c1-442a-8f4b-d330b4d4a909")
+			(uuid "28fa4ea2-a3a9-4886-bdb6-d051fd36f9ad")
 		)
 		(pad "12" thru_hole circle
 			(at -11.43 3.81)
@@ -16528,7 +16679,7 @@
 			(net 326 "unconnected-(U26-IO0{slash}MISO-Pad12)")
 			(pinfunction "IO0/MISO")
 			(pintype "bidirectional")
-			(uuid "b3202ab9-fe62-4954-8af7-9f3d79e109c5")
+			(uuid "35278555-725b-40cc-a82a-b4c5410b3fea")
 		)
 		(pad "13" thru_hole circle
 			(at -11.43 1.27)
@@ -16539,7 +16690,7 @@
 			(net 327 "unconnected-(U26-IO1{slash}SCK-Pad13)")
 			(pinfunction "IO1/SCK")
 			(pintype "bidirectional")
-			(uuid "1761bbe4-da35-482c-b58f-60f286d84126")
+			(uuid "eb4de7a0-2df0-4101-9667-624ce2937bfa")
 		)
 		(pad "14" thru_hole circle
 			(at -11.43 -1.27)
@@ -16550,7 +16701,7 @@
 			(net 328 "unconnected-(U26-IO2-Pad14)")
 			(pinfunction "IO2")
 			(pintype "bidirectional")
-			(uuid "dc1c8ab5-37b1-4cce-a68e-fda3c0a251cb")
+			(uuid "9325cdc5-69ca-490a-a8ce-7a9021fbc15c")
 		)
 		(pad "15" thru_hole circle
 			(at -11.43 -3.81)
@@ -16561,7 +16712,7 @@
 			(net 329 "unconnected-(U26-IO3{slash}VBAT-Pad15)")
 			(pinfunction "IO3/VBAT")
 			(pintype "bidirectional")
-			(uuid "5f8e67dc-b5c5-47ab-9016-feb5f6fef736")
+			(uuid "0f3784b3-bfc7-44ef-919a-33383954b3d1")
 		)
 		(pad "16" thru_hole circle
 			(at -11.43 -6.35)
@@ -16572,7 +16723,7 @@
 			(net 330 "unconnected-(U26-RST{slash}EN-Pad16)")
 			(pinfunction "RST/EN")
 			(pintype "input")
-			(uuid "c62fb8b7-b44e-4810-99eb-35beecaa9242")
+			(uuid "2c85d694-e6fa-442b-a0c3-705676a31c92")
 		)
 		(model "${KIPRJMOD}/lib/c3-pico/c3-pico.step"
 			(offset
