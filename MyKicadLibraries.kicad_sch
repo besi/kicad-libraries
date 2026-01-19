@@ -7982,6 +7982,177 @@
 				)
 			)
 		)
+		(symbol "hw357:hw357"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -5.715 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "hw357"
+				(at 3.81 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "hw357:hw357"
+				(at -1.27 26.035 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.mikrocontroller.net/attachment/589573/HW-357_V3-0_SCH_V1.pdf"
+				(at -1.27 26.035 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "hw357_0_1"
+				(rectangle
+					(start -5.08 6.35)
+					(end 5.08 -6.35)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "hw357_1_1"
+				(pin power_in line
+					(at 0 8.89 270)
+					(length 2.54)
+					(name "IN+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -8.89 90)
+					(length 2.54)
+					(name "IN-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 7.62 3.81 180)
+					(length 2.54)
+					(name "O+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 7.62 -3.81 180)
+					(length 2.54)
+					(name "O-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 3.81 0)
+					(length 2.54)
+					(name "B+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 -3.81 0)
+					(length 2.54)
+					(name "B-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "ld2450:ld2450"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -15247,6 +15418,88 @@
 			(project "MyKicadLibraries"
 				(path "/617e9334-d525-4cea-bd80-5d6e744b2555"
 					(reference "J9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "hw357:hw357")
+		(at 20.32 -13.97 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c3e47b6f-c1ca-4b24-8ee3-ba0685c89b83")
+		(property "Reference" "U29"
+			(at 22.5141 -24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "hw357"
+			(at 22.5141 -21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "hw357:hw357"
+			(at 19.05 -40.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mikrocontroller.net/attachment/589573/HW-357_V3-0_SCH_V1.pdf"
+			(at 19.05 -40.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 20.32 -13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "42015e4f-5edd-463f-b1fd-ce59db6e9008")
+		)
+		(pin "3"
+			(uuid "fa7c784b-da3d-4bfd-98e3-f4d0def8e3af")
+		)
+		(pin "2"
+			(uuid "2a2976e9-5d7a-4bd4-a899-9fa1ea7694dd")
+		)
+		(pin "5"
+			(uuid "0b521512-c975-49c4-9f1e-30dab60c861b")
+		)
+		(pin "6"
+			(uuid "4952798c-7768-4287-9f21-a00efb48ceeb")
+		)
+		(pin "4"
+			(uuid "96b704a3-c479-4b27-b1d6-6922c3e5fc0b")
+		)
+		(instances
+			(project ""
+				(path "/617e9334-d525-4cea-bd80-5d6e744b2555"
+					(reference "U29")
 					(unit 1)
 				)
 			)

@@ -115,3 +115,6 @@
 [submodule "lib/pts636"]
 	path = lib/pts636
 	url = https://github.com/besi/kicad-pts636
+[submodule "lib/hw357"]
+	path = lib/hw357
+	url = https://github.com/besi/kicad-hw357
