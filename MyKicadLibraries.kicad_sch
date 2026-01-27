@@ -8153,6 +8153,442 @@
 				)
 			)
 		)
+		(symbol "iec320-c14:iec320-c14"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 10.414 12.954 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 21.59 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "iec320-c14:iec320-c14"
+				(at 13.716 -10.414 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 21.59 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 21.59 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "iec320-c14_0_0"
+				(circle
+					(center 5.842 -2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 5.842 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 9.906 -2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 9.906 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "iec320-c14_0_1"
+				(rectangle
+					(start -3.048 9.398)
+					(end -2.032 6.858)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 6.858) (xy -2.54 6.35)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 6.858) (xy -2.54 9.398)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 9.398) (xy -2.54 9.652)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 -2.286) (xy 10.2108 -0.5588)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 2.794) (xy 10.2108 4.5212)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.874 -1.27) (xy 7.874 -0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.874 1.016) (xy 7.874 2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.874 3.048) (xy 7.874 3.302)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.414 -2.54) (xy 10.668 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.414 2.54) (xy 10.668 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -6.858) (xy 3.048 -2.54) (xy 5.334 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 9.652) (xy 3.048 2.54) (xy 5.334 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "iec320-c14_1_1"
+				(rectangle
+					(start -6.35 11.43)
+					(end 12.7 -8.89)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -4.445 3.302)
+					(end -1.905 4.318)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -4.318 -4.318)
+					(end -1.778 -3.302)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -1.016 -0.508)
+					(end 1.524 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.334 6.35) (xy -5.842 5.842) (xy -5.842 -5.842) (xy -5.334 -6.35) (xy -0.254 -6.35) (xy 2.286 -3.81)
+						(xy 2.286 3.81) (xy -0.254 6.35) (xy -5.334 6.35)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at -2.54 13.97 270)
+					(length 2.54)
+					(name "L"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 -11.43 90)
+					(length 2.54)
+					(name "N"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -8.89 0 0)
+					(length 2.54)
+					(name "PE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 13.97 270)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -11.43 90)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 2.54 180)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 -2.54 180)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "ld2450:ld2450"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -12724,7 +13160,7 @@
 	)
 	(symbol
 		(lib_id "esp-01m:esp-01m")
-		(at 34.036 109.728 0)
+		(at 27.94 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12733,7 +13169,7 @@
 		(fields_autoplaced yes)
 		(uuid "236bdc31-4b00-4994-b849-5a59c1729744")
 		(property "Reference" "U4"
-			(at 34.9885 91.44 0)
+			(at 28.8925 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12741,7 +13177,7 @@
 			)
 		)
 		(property "Value" "esp-01m"
-			(at 34.9885 93.98 0)
+			(at 28.8925 92.202 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12749,7 +13185,7 @@
 			)
 		)
 		(property "Footprint" "esp-01m:esp-01m"
-			(at 13.716 65.278 0)
+			(at 7.62 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12758,7 +13194,7 @@
 			)
 		)
 		(property "Datasheet" "https://docs.ai-thinker.com/_media/esp8266/docs/esp-01m_product_specification_en.pdf"
-			(at 13.716 65.278 0)
+			(at 7.62 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12767,7 +13203,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 34.036 109.728 0)
+			(at 27.94 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14983,72 +15419,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 41.275 125.095 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b112ba44-3585-4951-af40-a906e75f6d3a")
-		(property "Reference" "#PWR0103"
-			(at 41.275 131.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 41.275 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 41.275 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 41.275 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 41.275 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "aa7dea36-84ea-48cf-8855-fdc2011bb022")
-		)
-		(instances
-			(project "MyKicadLibraries"
-				(path "/617e9334-d525-4cea-bd80-5d6e744b2555"
-					(reference "#PWR0103")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "c8-inlet:c8-inlet")
 		(at 81.28 77.47 0)
 		(unit 1)
@@ -16596,6 +16966,89 @@
 			(project "MyKicadLibraries"
 				(path "/617e9334-d525-4cea-bd80-5d6e744b2555"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "iec320-c14:iec320-c14")
+		(at 54.61 -13.97 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e813e350-5304-44b1-814a-369a91725fc0")
+		(property "Reference" "U31"
+			(at 40.64 -19.0186 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 40.64 -17.1135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "iec320-c14:iec320-c14"
+			(at 72.39 -13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 72.39 -13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 -13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2c911a86-a6d4-4ec3-a0f7-57f449b69414")
+		)
+		(pin "4"
+			(uuid "0b84def0-4336-49fe-ba81-0f6d4caf0cee")
+		)
+		(pin "1"
+			(uuid "520b84f9-4d68-4d04-9ee7-017f39c8cfb0")
+		)
+		(pin "3"
+			(uuid "3e35c0b7-a63d-42a0-8ef8-4ef276f9dd04")
+		)
+		(pin "5"
+			(uuid "48aa1b78-53d2-412d-8f9a-e76b77d4be2d")
+		)
+		(pin "6"
+			(uuid "8028d61b-b940-4a4a-bc8b-e63f546f0961")
+		)
+		(pin "7"
+			(uuid "f910a8ed-b437-428e-b104-e426ce84e323")
+		)
+		(instances
+			(project ""
+				(path "/617e9334-d525-4cea-bd80-5d6e744b2555"
+					(reference "U31")
 					(unit 1)
 				)
 			)
