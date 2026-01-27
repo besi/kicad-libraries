@@ -118,3 +118,6 @@
 [submodule "lib/hw357"]
 	path = lib/hw357
 	url = https://github.com/besi/kicad-hw357
+[submodule "lib/iec320-c14"]
+	path = lib/iec320-c14
+	url = https://github.com/besi/kicad-iec320-c14
