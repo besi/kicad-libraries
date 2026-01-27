@@ -39,4 +39,5 @@
   (lib (name "pts636")(type "KiCad")(uri "${KIPRJMOD}/lib/pts636/pts636.pretty")(options "")(descr ""))
   (lib (name "hw357")(type "KiCad")(uri "${KIPRJMOD}/lib/hw357/hw357.pretty")(options "")(descr ""))
   (lib (name "iec320-c14")(type "KiCad")(uri "${KIPRJMOD}/lib/iec320-c14/iec320-c14.pretty")(options "")(descr ""))
+  (lib (name "c14-outlet")(type "KiCad")(uri "${KIPRJMOD}/lib/c14-outlet/c14-outlet.pretty")(options "")(descr ""))
 )

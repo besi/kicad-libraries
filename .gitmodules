@@ -121,3 +121,6 @@
 [submodule "lib/iec320-c14"]
 	path = lib/iec320-c14
 	url = https://github.com/besi/kicad-iec320-c14
+[submodule "lib/c14-outlet"]
+	path = lib/c14-outlet
+	url = https://github.com/besi/kicad-c14-outlet.git

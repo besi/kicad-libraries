@@ -33,4 +33,5 @@
   (lib (name "28byj")(type "KiCad")(uri "${KIPRJMOD}/lib/28byj/28byj.kicad_sym")(options "")(descr ""))
   (lib (name "hw357")(type "KiCad")(uri "${KIPRJMOD}/lib/hw357/hw357.kicad_sym")(options "")(descr ""))
   (lib (name "iec320-c14")(type "KiCad")(uri "${KIPRJMOD}/lib/iec320-c14/iec320-c14.kicad_sym")(options "")(descr ""))
+  (lib (name "c14-outlet")(type "KiCad")(uri "${KIPRJMOD}/lib/c14-outlet/c14-outlet.kicad_sym")(options "")(descr ""))
 )
