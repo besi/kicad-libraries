@@ -40,7 +40,8 @@
     git submodule add https://github.com/besi/kicad-dcf77               lib/dcf77
     git submodule add https://github.com/besi/kicad-28byj               lib/28byj
     git submodule add https://github.com/besi/kicad-pts636              lib/pts636
-    git submodule add https://github.com/besi/kicad-iec320-c14		lib/iec320-c14^C
+    git submodule add https://github.com/besi/kicad-iec320-c14          lib/iec320-c14
+    git submodule add https://github.com/besi/kicad-c14-outlet          lib/c14-outlet
 
 
 Synchronise the git submodules
