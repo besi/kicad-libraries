@@ -8810,7 +8810,7 @@
 			(at 0 -2.54 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "5202676d-c7cc-4851-828e-cd81b31f2702")
+			(uuid "a4691249-1187-42e7-a3a2-d7d6d22aa6cc")
 			(effects
 				(font
 					(size 1 1)
@@ -8823,7 +8823,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5b949462-53bd-41e7-bbc9-cc01378077d0")
+			(uuid "c22ced79-52ca-4844-b7f5-fd53f7d8c9d8")
 			(effects
 				(font
 					(size 1 1)
@@ -8835,7 +8835,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f047f1d3-ac98-45ef-b1c9-ef53d13fd733")
+			(uuid "fafb4c64-3037-4845-9a89-be677c2f7b9f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8847,7 +8847,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d25482ea-6e0a-4841-a468-c6ab97db410c")
+			(uuid "333bf8d6-1dd7-4598-8909-db1ae13188ba")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8859,7 +8859,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cf9548c3-8a7d-442b-bdf4-bd1eaeaf511e")
+			(uuid "2558587f-55fe-4670-8a69-2b38abad7128")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8870,6 +8870,66 @@
 		(sheetname "Root")
 		(sheetfile "MyKicadLibraries.kicad_sch")
 		(attr through_hole)
+		(fp_line
+			(start -1.5 8)
+			(end -1.5 6)
+			(stroke
+				(width 0.1)
+				(type dot)
+			)
+			(layer "F.SilkS")
+			(uuid "6a94b658-8786-409d-914a-972d46136590")
+		)
+		(fp_line
+			(start -0.5 13.5)
+			(end -0.5 8)
+			(stroke
+				(width 0.1)
+				(type dot)
+			)
+			(layer "F.SilkS")
+			(uuid "033b2e2c-9e99-4f51-84f0-f9cf22882dbd")
+		)
+		(fp_line
+			(start 0.5 8)
+			(end 0.5 14)
+			(stroke
+				(width 0.1)
+				(type dot)
+			)
+			(layer "F.SilkS")
+			(uuid "a05b4346-1252-47fb-92ea-a366360aa91a")
+		)
+		(fp_line
+			(start 0.5 14)
+			(end -0.5 13.5)
+			(stroke
+				(width 0.1)
+				(type dot)
+			)
+			(layer "F.SilkS")
+			(uuid "73e05e28-8be5-4bcd-9311-969159039425")
+		)
+		(fp_line
+			(start 1.5 6)
+			(end 1.5 8)
+			(stroke
+				(width 0.1)
+				(type dot)
+			)
+			(layer "F.SilkS")
+			(uuid "bdc1137e-8be9-4654-9424-c890c7edd5da")
+		)
+		(fp_line
+			(start 1.5 8)
+			(end -1.5 8)
+			(stroke
+				(width 0.1)
+				(type dot)
+			)
+			(layer "F.SilkS")
+			(uuid "66bc99d5-6d9b-4fb6-be55-b7b596ad949c")
+		)
 		(fp_circle
 			(center 0 0)
 			(end 2 0)
@@ -8879,7 +8939,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "1047918d-d7ba-47e6-bfea-29c5c6177343")
+			(uuid "a1c8d987-c203-483b-aeac-d592752058f8")
 		)
 		(fp_circle
 			(center 0 0)
@@ -8890,25 +8950,25 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "e8669f19-f190-46db-aeed-bd71d0694195")
+			(uuid "e9368077-35cf-40ca-95c1-1ebd98cae7a9")
 		)
 		(fp_circle
 			(center 0 0)
 			(end 6.1 0)
 			(stroke
 				(width 0.12)
-				(type solid)
+				(type dot)
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "72bd174f-042f-4075-a569-78640ebb4cd3")
+			(uuid "cb8ec258-0aef-4d22-8d86-1626160d14f9")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 10.16 -12.7 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "08ea4649-2886-4f75-b477-ee8791587054")
+			(uuid "f10aa2bb-94da-4522-98d1-808ec19778a0")
 			(effects
 				(font
 					(size 1 1)
@@ -8925,7 +8985,7 @@
 			(net 158 "unconnected-(U11-GND-Pad1)")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "ec762f20-3a36-4ff3-93f7-98abe7590392")
+			(uuid "9ad42dd2-2187-4fb9-ac61-b1ef00934847")
 		)
 		(pad "1" thru_hole oval
 			(at 2.54 0 90)
@@ -8936,7 +8996,7 @@
 			(net 158 "unconnected-(U11-GND-Pad1)")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "2ce49b0e-2cb7-4bb7-95a9-b7773e031f35")
+			(uuid "7381ac25-acc7-476f-9c64-4d8c84a3299b")
 		)
 		(pad "2" thru_hole oval
 			(at 0 0)
@@ -8947,7 +9007,7 @@
 			(net 159 "unconnected-(U11-VCC-Pad2)")
 			(pinfunction "VCC")
 			(pintype "power_in")
-			(uuid "b5d1b731-5130-46d1-9e25-f19c8c0fa831")
+			(uuid "a6a94778-4a20-4d7a-800a-8cd5819c4c55")
 		)
 		(model "${KIPRJMOD}/lib/magnetic-charger/magnetic-charger.step"
 			(offset
@@ -14756,7 +14816,7 @@
 		)
 		(fp_arc
 			(start 11.519614 -14.385781)
-			(mid 12.674605 -14.154535)
+			(mid 12.674599 -14.154529)
 			(end 13.651533 -13.496445)
 			(stroke
 				(width 0.2)
