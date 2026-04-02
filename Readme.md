@@ -43,7 +43,8 @@
     git submodule add https://github.com/besi/kicad-iec320-c14          lib/iec320-c14
     git submodule add https://github.com/besi/kicad-c14-outlet          lib/c14-outlet
     git submodule add https://github.com/besi/kicad-tpa3110             lib/tpa3110
-
+    git submodule add https://github.com/besi/kicad-hw357               lib/hw357
+    
 Synchronise the git submodules
 
     git submodule update --init --recursive
