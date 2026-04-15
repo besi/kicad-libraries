@@ -127,3 +127,6 @@
 [submodule "lib/tpa3110"]
 	path = lib/tpa3110
 	url = https://github.com/besi/kicad-tpa3110
+[submodule "lib/lolin32"]
+	path = lib/lolin32
+	url = https://github.com/besi/kicad-lolin32
