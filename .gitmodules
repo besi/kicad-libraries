@@ -130,3 +130,6 @@
 [submodule "lib/lolin32"]
 	path = lib/lolin32
 	url = https://github.com/besi/kicad-lolin32
+[submodule "lib/uda1334"]
+	path = lib/uda1334
+	url = https://github.com/besi/kicad-uda1334
