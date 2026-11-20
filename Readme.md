@@ -7,7 +7,7 @@
     git submodule add https://github.com/besi/kicad-lilygo-sim          lib/lilygo-sim
     git submodule add https://github.com/besi/kicad-relais-module       lib/relais-module
     git submodule add https://github.com/besi/kicad-esp-01m             lib/esp-01m
-    git submodule add https://github.com/besi/kicad-radio-receiver      lib/radio-receiver
+    git submodule add https://github.com/besi/kicad-rx480               lib/rx480
     git submodule add https://github.com/besi/kicad-dcdc                lib/dcdc
     git submodule add https://github.com/besi/kicad-schurter-switch     lib/schurter-switch
     git submodule add https://github.com/besi/kicad-mems-mic            lib/mems-mic

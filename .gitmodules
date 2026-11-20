@@ -13,9 +13,6 @@
 [submodule "lib/esp-01m"]
 	path = lib/esp-01m
 	url = https://github.com/besi/kicad-esp-01m.git
-[submodule "lib/radio-receiver"]
-	path = lib/radio-receiver
-	url = https://github.com/besi/kicad-radio-receiver
 [submodule "lib/dcdc"]
 	path = lib/dcdc
 	url = https://github.com/besi/kicad-dcdc
@@ -133,3 +130,6 @@
 [submodule "lib/uda1334"]
 	path = lib/uda1334
 	url = https://github.com/besi/kicad-uda1334
+[submodule "lib/rx480"]
+	path = lib/rx480
+	url = https://github.com/besi/kicad-rx480

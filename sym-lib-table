@@ -1,6 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "radio-receiver")(type "KiCad")(uri "${KIPRJMOD}/lib/radio-receiver/radio-receiver.kicad_sym")(options "")(descr ""))
   (lib (name "esp-01m")(type "KiCad")(uri "${KIPRJMOD}/lib/esp-01m/esp-01m.kicad_sym")(options "")(descr ""))
   (lib (name "relais_module")(type "KiCad")(uri "${KIPRJMOD}/lib/relais-module/relais_module.kicad_sym")(options "")(descr ""))
   (lib (name "LilygoSimT7000")(type "KiCad")(uri "${KIPRJMOD}/lib/lilygo-sim/LilygoSimT7000.kicad_sym")(options "")(descr ""))
@@ -36,4 +35,5 @@
   (lib (name "c14-outlet")(type "KiCad")(uri "${KIPRJMOD}/lib/c14-outlet/c14-outlet.kicad_sym")(options "")(descr ""))
   (lib (name "tpa3110")(type "KiCad")(uri "${KIPRJMOD}/lib/tpa3110/tpa3110.kicad_sym")(options "")(descr ""))
   (lib (name "uda1334")(type "KiCad")(uri "${KIPRJMOD}/lib/uda1334/uda1334.kicad_sym")(options "")(descr ""))
+  (lib (name "rx480")(type "KiCad")(uri "${KIPRJMOD}/lib/rx480/rx480.kicad_sym")(options "")(descr ""))
 )
